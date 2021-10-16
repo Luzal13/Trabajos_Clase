@@ -1,0 +1,11 @@
+body{ background-color: pink;}
+h2 {
+    Color:red;
+    font-size: 60px;
+    text-align: center
+}
+p {Color: Green;
+    font-size: 35px;
+    text-align: center;
+    font-style: italic
+}
